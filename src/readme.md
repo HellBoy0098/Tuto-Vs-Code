@@ -1,0 +1,2 @@
+no quieres aprender a programar, eres estudiante y quieres pulir tus habilidades o ya eres desarrollador Python y quieres conocer más acerca del lenguaje, tienes que tener este curso en tu curriculum. Derechamente te conviene y de esto mismo se trata este curso!
+Python esta dentro de los lenguajes más populares en la actualidad, debido a que se utiliza para construir aplicaciones grandes y robustas. Desde automatizar tareas simples hasta trabajar con Machine Learning, desarrollo Web o ciencias de datos.
